@@ -14,3 +14,4 @@ def is_anagram(arg1, arg2):
 
 #if __name__ == '__main__':
 #    is_anagram('Some String', 1)
+
