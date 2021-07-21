@@ -14,5 +14,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
           heroku_api_key: ${{secrets.TERAKOYA12}}
-          heroku_app_name: terakora12
+          heroku_app_name: terakoya12
           heroku_email: m.sakai@kiyono-co.jp
